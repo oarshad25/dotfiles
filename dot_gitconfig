@@ -1,0 +1,11 @@
+[user]
+	name = Osama Arshad
+	email = osama.arshad25@gmail.com
+[color]
+	ui = true
+[core]
+	editor = code --wait
+	excludesfile = /Users/oa2/.gitignore_global
+	autocrlf = input
+[init]
+	defaultBranch = main

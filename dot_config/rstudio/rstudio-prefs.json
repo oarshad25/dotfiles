@@ -1,0 +1,45 @@
+{
+    "panes": {
+        "quadrants": [
+            "Source",
+            "Console",
+            "TabSet1",
+            "TabSet2"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "Build",
+            "VCS",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Viewer",
+            "Presentations"
+        ],
+        "console_left_on_top": false,
+        "console_right_on_top": true
+    },
+    "show_diagnostics_other": true,
+    "soft_wrap_r_files": true,
+    "editor_theme": "Tomorrow Night 80s",
+    "default_project_location": "~/tmp",
+    "source_with_echo": true,
+    "show_terminal_tab": false,
+    "wrap_tab_navigation": false,
+    "save_workspace": "never",
+    "reuse_sessions_for_project_links": true,
+    "initial_working_directory": "~/Documents/projects",
+    "font_size_points": 12,
+    "posix_terminal_shell": "bash",
+    "jobs_tab_visibility": "shown",
+    "real_time_spellchecking": false,
+    "rmd_preferred_template_path": "/Users/oa2/Library/R/x86_64/4.2/library/xaringanthemer/rmarkdown/templates/xaringanthemer",
+    "insert_native_pipe_operator": true,
+    "rainbow_parentheses": true
+}
